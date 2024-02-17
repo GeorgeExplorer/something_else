@@ -1,4 +1,4 @@
-def finding_divisors():
+def finding_prime_factors():
     # finding all divisors of the numbers
     while True:
         try:
