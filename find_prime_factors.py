@@ -39,4 +39,4 @@ def finding_prime_factors():
             print(f"Prime factors: {str_list} that doesn't contain last divisor because it's = '1' ")
         return
 
-finding_divisors()
+finding_prime_factors()
